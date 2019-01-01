@@ -1,5 +1,5 @@
- # WebesTodoAppK11
-A NetAcademia "Az első Webes C# projektem> TO-DO alkalmazás készítése" tanfolyam ismétlésének 2019-01 kódtára 
+ # WebesTodoAppK11 ROSSZ
+A NetAcademia "Az első Webes C# projektem> TO-DO alkalmazás készítése" tanfolyam ismétlésének 2019-01 kódtára К
 
 Általános DotNet csoport a facebook-on: DotNet Cápák
 A tanfolyam célja
